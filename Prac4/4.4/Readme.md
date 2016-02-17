@@ -1,3 +1,4 @@
+![2016-02-14 3](https://cloud.githubusercontent.com/assets/16263300/13099934/ba02895e-d55d-11e5-8bfa-afe3406029eb.png)
 
 4.4 A Holistic counter in Servlet
 ---------------------------------
